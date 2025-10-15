@@ -6,3 +6,4 @@ result-*
 .direnv
 /data
 cookies.txt
+*.html
